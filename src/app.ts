@@ -3,9 +3,12 @@ import express, { Application } from "express";
 export class Server {
   private app: Application;
 
+  private SUSAN_craig: Number;
+
   constructor(private port?: number | string) {
     this.app = express();
     this.settings();
+    this.SUSAN_craig = 10;
   }
 
   async settings() {
