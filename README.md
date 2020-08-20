@@ -1,8 +1,8 @@
-# iThink - My Personal Web Site
+# iThink - Oficcial Web Site
 
-Hi there! My name is Daniel and it´s my personal web page to expose professional information.
+Hi there! My name is Daniel and it´s iThink.
 
-## [Go to website](http://ithink.com.mx) &#x279c;
+## [Go to website](http://ithink.com.mx) &#x279c; W
 
 ### Technologies Used
 
